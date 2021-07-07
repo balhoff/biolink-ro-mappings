@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX linkml: <https://w3id.org/linkml/>
+
+CONSTRUCT {
+  <http://purl.obolibrary.org/obo/ro.owl> a owl:Ontology .
+  ?property a owl:Class .
+  ?property rdfs:subClassOf ?parent .
+  ?property rdfs:label ?label .
+  ?parent a owl:Class .
+}
+WHERE {
+  ?property a owl:ObjectProperty .
+  ?property rdfs:label ?label .
+  OPTIONAL { ?property rdfs:subPropertyOf ?parent . }
+}

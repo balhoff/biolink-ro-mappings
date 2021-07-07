@@ -1,0 +1,57 @@
+{
+  "graphs" : [
+    {
+      "id" : "urn:clique:19d3b3170e75d2ec553a39a88f79b844ad829b3d0f89243405d1510e05b56f91",
+      "nodes" : [
+        {
+          "id" : "obo:OBI_0000175",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:p_value",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:EDAM-DATA_1669",
+          "type" : "CLASS"
+        }
+      ],
+      "edges" : [
+        {
+          "sub" : "obo:OBI_0000175",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:p_value",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:p_value",
+          "pred" : "is_a",
+          "obj" : "obo:EDAM-DATA_1669",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        }
+      ],
+      "equivalentNodesSets" : [
+        {
+          "nodeIds" : [
+            "obo:OBI_0000175",
+            "biolink:p_value"
+          ]
+        }
+      ]
+    }
+  ]
+}

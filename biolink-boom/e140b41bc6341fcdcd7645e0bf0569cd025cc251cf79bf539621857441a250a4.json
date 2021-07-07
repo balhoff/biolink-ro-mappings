@@ -1,0 +1,185 @@
+{
+  "graphs" : [
+    {
+      "id" : "urn:clique:e140b41bc6341fcdcd7645e0bf0569cd025cc251cf79bf539621857441a250a4",
+      "nodes" : [
+        {
+          "id" : "biolink:negatively_regulates",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002212",
+          "type" : "CLASS",
+          "lbl" : "negatively regulates"
+        },
+        {
+          "id" : "biolink:acts_upstream_of_or_within_negative_effect",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0004033",
+          "type" : "CLASS",
+          "lbl" : "acts upstream of or within, negative effect"
+        },
+        {
+          "id" : "obo:RO_0004035",
+          "type" : "CLASS",
+          "lbl" : "acts upstream of, negative effect"
+        },
+        {
+          "id" : "obo:RO_0002630",
+          "type" : "CLASS",
+          "lbl" : "directly negatively regulates"
+        },
+        {
+          "id" : "biolink:acts_upstream_of_negative_effect",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:process_negatively_regulates_process",
+          "type" : "CLASS"
+        }
+      ],
+      "edges" : [
+        {
+          "sub" : "biolink:process_negatively_regulates_process",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002212",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002630",
+          "pred" : "is_a",
+          "obj" : "biolink:negatively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:negatively_regulates",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0004033",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:process_negatively_regulates_process",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:negatively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002212",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:negatively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004035",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:acts_upstream_of_negative_effect",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004035",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0004033",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:negatively_regulates",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0004035",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004033",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:acts_upstream_of_or_within_negative_effect",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002630",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002212",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        }
+      ],
+      "equivalentNodesSets" : [
+        {
+          "nodeIds" : [
+            "obo:RO_0004033",
+            "biolink:acts_upstream_of_or_within_negative_effect"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0002212",
+            "biolink:negatively_regulates"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:acts_upstream_of_negative_effect",
+            "obo:RO_0004035"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "graphs" : [
+    {
+      "id" : "urn:clique:ed85a5cbe83a121a8a028264162f7c0a141188e10de8311af45afe3766818929",
+      "nodes" : [
+        {
+          "id" : "biolink:acts_upstream_of_positive_effect",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002629",
+          "type" : "CLASS",
+          "lbl" : "directly positively regulates"
+        },
+        {
+          "id" : "biolink:entity_positively_regulates_entity",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:positively_regulates",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:acts_upstream_of_or_within",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0004034",
+          "type" : "CLASS",
+          "lbl" : "acts upstream of, positive effect"
+        },
+        {
+          "id" : "obo:RO_0002213",
+          "type" : "CLASS",
+          "lbl" : "positively regulates"
+        },
+        {
+          "id" : "obo:RO_0002450",
+          "type" : "CLASS",
+          "lbl" : "directly positively regulates activity of"
+        },
+        {
+          "id" : "obo:RO_0004032",
+          "type" : "CLASS",
+          "lbl" : "acts upstream of or within, positive effect"
+        },
+        {
+          "id" : "biolink:process_positively_regulates_process",
+          "type" : "CLASS"
+        }
+      ],
+      "edges" : [
+        {
+          "sub" : "obo:RO_0002213",
+          "pred" : "is_a",
+          "obj" : "biolink:positively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002213",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:process_positively_regulates_process",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004034",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:acts_upstream_of_positive_effect",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002629",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002213",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004032",
+          "pred" : "is_a",
+          "obj" : "biolink:positively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:entity_positively_regulates_entity",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:positively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004034",
+          "pred" : "is_a",
+          "obj" : "biolink:positively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002450",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:entity_positively_regulates_entity",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:entity_positively_regulates_entity",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0004034",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:process_positively_regulates_process",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:positively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004034",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0004032",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004032",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:acts_upstream_of_or_within",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002629",
+          "pred" : "is_a",
+          "obj" : "biolink:positively_regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        }
+      ],
+      "equivalentNodesSets" : [
+        {
+          "nodeIds" : [
+            "biolink:acts_upstream_of_positive_effect",
+            "obo:RO_0004034"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:entity_positively_regulates_entity",
+            "obo:RO_0002450"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:process_positively_regulates_process",
+            "obo:RO_0002213"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0004032",
+            "biolink:acts_upstream_of_or_within"
+          ]
+        }
+      ]
+    }
+  ]
+}

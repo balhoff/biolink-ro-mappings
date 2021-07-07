@@ -1,0 +1,17 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX linkml: <https://w3id.org/linkml/>
+
+CONSTRUCT {
+  <https://w3id.org/biolink/vocab/Biolink-Model> a owl:Ontology .
+  ?slot a owl:Class .
+  ?slot rdfs:subClassOf ?parent .
+  ?slot rdfs:subClassOf ?mixin .
+  ?parent a owl:Class .
+  ?mixin a owl:Class .
+}
+WHERE {
+  ?slot a linkml:SlotDefinition .
+  OPTIONAL { ?slot linkml:is_a ?parent . }
+  OPTIONAL { ?slot linkml:mixins ?mixin . }
+}

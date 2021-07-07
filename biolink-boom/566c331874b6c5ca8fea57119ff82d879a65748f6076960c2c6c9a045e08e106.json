@@ -1,0 +1,58 @@
+{
+  "graphs" : [
+    {
+      "id" : "urn:clique:566c331874b6c5ca8fea57119ff82d879a65748f6076960c2c6c9a045e08e106",
+      "nodes" : [
+        {
+          "id" : "biolink:derives_from",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0001000",
+          "type" : "CLASS",
+          "lbl" : "derives from"
+        },
+        {
+          "id" : "obo:doid#derives_from",
+          "type" : "CLASS"
+        }
+      ],
+      "edges" : [
+        {
+          "sub" : "biolink:derives_from",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0001000",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:doid#derives_from",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:derives_from",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        }
+      ],
+      "equivalentNodesSets" : [
+        {
+          "nodeIds" : [
+            "biolink:derives_from",
+            "obo:doid#derives_from"
+          ]
+        }
+      ]
+    }
+  ]
+}

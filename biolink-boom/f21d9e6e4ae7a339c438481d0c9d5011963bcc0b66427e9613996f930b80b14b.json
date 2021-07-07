@@ -1,0 +1,5859 @@
+{
+  "graphs" : [
+    {
+      "id" : "urn:clique:f21d9e6e4ae7a339c438481d0c9d5011963bcc0b66427e9613996f930b80b14b",
+      "nodes" : [
+        {
+          "id" : "obo:RO_0002524",
+          "type" : "CLASS",
+          "lbl" : "has subsequence"
+        },
+        {
+          "id" : "obo:HANCESTRO_0330",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:process_regulates_process",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002263",
+          "type" : "CLASS",
+          "lbl" : "acts upstream of"
+        },
+        {
+          "id" : "obo:RO_0002224",
+          "type" : "CLASS",
+          "lbl" : "starts with"
+        },
+        {
+          "id" : "biolink:temporally_related_to",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002432",
+          "type" : "CLASS",
+          "lbl" : "is active in"
+        },
+        {
+          "id" : "obo:RO_0002131",
+          "type" : "CLASS",
+          "lbl" : "overlaps"
+        },
+        {
+          "id" : "biolink:has_part",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002315",
+          "type" : "CLASS",
+          "lbl" : "results in acquisition of features of"
+        },
+        {
+          "id" : "obo:RO_0002007",
+          "type" : "CLASS",
+          "lbl" : "bounding layer of"
+        },
+        {
+          "id" : "biolink:overlaps",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002505",
+          "type" : "CLASS",
+          "lbl" : "has intermediate"
+        },
+        {
+          "id" : "obo:RO_0004027",
+          "type" : "CLASS",
+          "lbl" : "disease has inflammation site"
+        },
+        {
+          "id" : "obo:RO_0002177",
+          "type" : "CLASS",
+          "lbl" : "attached to part of"
+        },
+        {
+          "id" : "biolink:precedes",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:caused_by",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002008",
+          "type" : "CLASS",
+          "lbl" : "coincident with"
+        },
+        {
+          "id" : "obo:OBI_0000295",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:envo#has_increased_levels_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0004026",
+          "type" : "CLASS",
+          "lbl" : "disease has location"
+        },
+        {
+          "id" : "obo:RO_0002295",
+          "type" : "CLASS",
+          "lbl" : "results in developmental progression of"
+        },
+        {
+          "id" : "obo:BSPO_0015101",
+          "type" : "CLASS",
+          "lbl" : "in dorsal side of"
+        },
+        {
+          "id" : "obo:RO_0002488",
+          "type" : "CLASS",
+          "lbl" : "existence starts during"
+        },
+        {
+          "id" : "obo:RO_0002104",
+          "type" : "CLASS",
+          "lbl" : "has plasma membrane part"
+        },
+        {
+          "id" : "obo:RO_0002339",
+          "type" : "CLASS",
+          "lbl" : "has target end location"
+        },
+        {
+          "id" : "obo:RO_0002343",
+          "type" : "CLASS",
+          "lbl" : "results in growth of"
+        },
+        {
+          "id" : "obo:RO_0001025",
+          "type" : "CLASS",
+          "lbl" : "located in"
+        },
+        {
+          "id" : "obo:RO_0002591",
+          "type" : "CLASS",
+          "lbl" : "results in remodeling of"
+        },
+        {
+          "id" : "obo:RO_0009001",
+          "type" : "CLASS",
+          "lbl" : "has substance added"
+        },
+        {
+          "id" : "obo:RO_0002179",
+          "type" : "CLASS",
+          "lbl" : "drains"
+        },
+        {
+          "id" : "obo:BFO_0000056",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:HANCESTRO_0308",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BFO_0000051",
+          "type" : "CLASS",
+          "lbl" : "has part"
+        },
+        {
+          "id" : "obo:RO_0002326",
+          "type" : "CLASS",
+          "lbl" : "contributes to"
+        },
+        {
+          "id" : "obo:RO_0004009",
+          "type" : "CLASS",
+          "lbl" : "has primary input"
+        },
+        {
+          "id" : "obo:RO_0002496",
+          "type" : "CLASS",
+          "lbl" : "existence starts during or after"
+        },
+        {
+          "id" : "obo:RO_0002507",
+          "type" : "CLASS",
+          "lbl" : "determined by"
+        },
+        {
+          "id" : "obo:RO_0002344",
+          "type" : "CLASS",
+          "lbl" : "results in transport to from or in"
+        },
+        {
+          "id" : "obo:BSPO_0000107",
+          "type" : "CLASS",
+          "lbl" : "deep to"
+        },
+        {
+          "id" : "obo:RO_0002451",
+          "type" : "CLASS",
+          "lbl" : "transmitted by"
+        },
+        {
+          "id" : "obo:RO_0002434",
+          "type" : "CLASS",
+          "lbl" : "interacts with"
+        },
+        {
+          "id" : "obo:BSPO_0005001",
+          "type" : "CLASS",
+          "lbl" : "intersects midsagittal plane of"
+        },
+        {
+          "id" : "obo:BFO_0000063",
+          "type" : "CLASS",
+          "lbl" : "precedes"
+        },
+        {
+          "id" : "biolink:participates_in",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0009501",
+          "type" : "CLASS",
+          "lbl" : "realized in response to"
+        },
+        {
+          "id" : "obo:RO_0001019",
+          "type" : "CLASS",
+          "lbl" : "contains"
+        },
+        {
+          "id" : "obo:RO_0002349",
+          "type" : "CLASS",
+          "lbl" : "results in determination of"
+        },
+        {
+          "id" : "obo:RO_0002568",
+          "type" : "CLASS",
+          "lbl" : "has muscle antagonist"
+        },
+        {
+          "id" : "biolink:regulates",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002497",
+          "type" : "CLASS",
+          "lbl" : "existence ends during or before"
+        },
+        {
+          "id" : "biolink:acts_upstream_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:part_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002590",
+          "type" : "CLASS",
+          "lbl" : "results in disassembly of"
+        },
+        {
+          "id" : "obo:RO_0004028",
+          "type" : "CLASS",
+          "lbl" : "realized in response to stimulus"
+        },
+        {
+          "id" : "obo:BSPO_0000125",
+          "type" : "CLASS",
+          "lbl" : "in distal side of"
+        },
+        {
+          "id" : "biolink:acts_upstream_of_or_within_positive_effect",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002489",
+          "type" : "CLASS",
+          "lbl" : "existence starts with"
+        },
+        {
+          "id" : "biolink:has_participant",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BSPO_0015102",
+          "type" : "CLASS",
+          "lbl" : "in ventral side of"
+        },
+        {
+          "id" : "obo:RO_0002411",
+          "type" : "CLASS",
+          "lbl" : "causally upstream of"
+        },
+        {
+          "id" : "obo:RO_0002082",
+          "type" : "CLASS",
+          "lbl" : "simultaneous with"
+        },
+        {
+          "id" : "biolink:related_to",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002215",
+          "type" : "CLASS",
+          "lbl" : "capable of"
+        },
+        {
+          "id" : "obo:RO_0002102",
+          "type" : "CLASS",
+          "lbl" : "axon synapses in"
+        },
+        {
+          "id" : "obo:BSPO_0000124",
+          "type" : "CLASS",
+          "lbl" : "in proximal side of"
+        },
+        {
+          "id" : "obo:RO_0002374",
+          "type" : "CLASS",
+          "lbl" : "derived from ancestral fusion of"
+        },
+        {
+          "id" : "obo:RO_0002500",
+          "type" : "CLASS",
+          "lbl" : "causal agent in process"
+        },
+        {
+          "id" : "obo:RO_0002328",
+          "type" : "CLASS",
+          "lbl" : "functionally related to"
+        },
+        {
+          "id" : "obo:RO_0002576",
+          "type" : "CLASS",
+          "lbl" : "skeleton of"
+        },
+        {
+          "id" : "obo:RO_0002551",
+          "type" : "CLASS",
+          "lbl" : "has skeleton"
+        },
+        {
+          "id" : "obo:nbo#in_response_to",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:nbo#by_means",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002571",
+          "type" : "CLASS",
+          "lbl" : "lumen of"
+        },
+        {
+          "id" : "obo:RO_0002225",
+          "type" : "CLASS",
+          "lbl" : "develops from part of"
+        },
+        {
+          "id" : "obo:RO_0002385",
+          "type" : "CLASS",
+          "lbl" : "has potential to developmentally contribute to"
+        },
+        {
+          "id" : "biolink:synonym",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002314",
+          "type" : "CLASS",
+          "lbl" : "characteristic of part of"
+        },
+        {
+          "id" : "obo:RO_0002264",
+          "type" : "CLASS",
+          "lbl" : "acts upstream of or within"
+        },
+        {
+          "id" : "obo:BSPO_0000123",
+          "type" : "CLASS",
+          "lbl" : "in anterior side of"
+        },
+        {
+          "id" : "obo:BSPO_0000121",
+          "type" : "CLASS",
+          "lbl" : "in right side of"
+        },
+        {
+          "id" : "obo:HANCESTRO_0301",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:FOODON_00002420",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BFO_0000050",
+          "type" : "CLASS",
+          "lbl" : "part of"
+        },
+        {
+          "id" : "obo:BSPO_0001113",
+          "type" : "CLASS",
+          "lbl" : "preaxialmost part of"
+        },
+        {
+          "id" : "obo:RO_0009004",
+          "type" : "CLASS",
+          "lbl" : "has consumer"
+        },
+        {
+          "id" : "obo:RO_0002150",
+          "type" : "CLASS",
+          "lbl" : "continuous with"
+        },
+        {
+          "id" : "obo:RO_0002592",
+          "type" : "CLASS",
+          "lbl" : "results in organization of"
+        },
+        {
+          "id" : "biolink:has_attribute",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:UBERON_CORE_in_innermost_side_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:IAO_0000136",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002371",
+          "type" : "CLASS",
+          "lbl" : "attached to"
+        },
+        {
+          "id" : "obo:BFO_0000167",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002372",
+          "type" : "CLASS",
+          "lbl" : "has muscle origin"
+        },
+        {
+          "id" : "obo:RO_0001018",
+          "type" : "CLASS",
+          "lbl" : "contained in"
+        },
+        {
+          "id" : "obo:RO_0002380",
+          "type" : "CLASS",
+          "lbl" : "branching part of"
+        },
+        {
+          "id" : "obo:RO_0002100",
+          "type" : "CLASS",
+          "lbl" : "has soma location"
+        },
+        {
+          "id" : "obo:RO_0002495",
+          "type" : "CLASS",
+          "lbl" : "immediate transformation of"
+        },
+        {
+          "id" : "obo:RO_0000086",
+          "type" : "CLASS",
+          "lbl" : "has quality"
+        },
+        {
+          "id" : "obo:RO_0002565",
+          "type" : "CLASS",
+          "lbl" : "results in movement of"
+        },
+        {
+          "id" : "obo:BSPO_0001106",
+          "type" : "CLASS",
+          "lbl" : "proximalmost part of"
+        },
+        {
+          "id" : "obo:RO_0002506",
+          "type" : "CLASS",
+          "lbl" : "causal relation between entities"
+        },
+        {
+          "id" : "obo:RO_0001022",
+          "type" : "CLASS",
+          "lbl" : "has allergic trigger"
+        },
+        {
+          "id" : "obo:RO_0002229",
+          "type" : "CLASS",
+          "lbl" : "ends"
+        },
+        {
+          "id" : "obo:RO_0002494",
+          "type" : "CLASS",
+          "lbl" : "transformation of"
+        },
+        {
+          "id" : "obo:BSPO_0001108",
+          "type" : "CLASS",
+          "lbl" : "distalmost part of"
+        },
+        {
+          "id" : "obo:UBERON_CORE_subdivision_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0004019",
+          "type" : "CLASS",
+          "lbl" : "disease has basis in"
+        },
+        {
+          "id" : "obo:RO_0000052",
+          "type" : "CLASS",
+          "lbl" : "characteristic of"
+        },
+        {
+          "id" : "obo:RO_0002226",
+          "type" : "CLASS",
+          "lbl" : "develops in"
+        },
+        {
+          "id" : "obo:RO_0002092",
+          "type" : "CLASS",
+          "lbl" : "happens during"
+        },
+        {
+          "id" : "obo:BFO_0000054",
+          "type" : "CLASS",
+          "lbl" : "realized in"
+        },
+        {
+          "id" : "obo:RO_0002410",
+          "type" : "CLASS",
+          "lbl" : "causally related to"
+        },
+        {
+          "id" : "obo:RO_0002083",
+          "type" : "CLASS",
+          "lbl" : "before"
+        },
+        {
+          "id" : "obo:BSPO_0001100",
+          "type" : "CLASS",
+          "lbl" : "in superficial part of"
+        },
+        {
+          "id" : "obo:RO_0012003",
+          "type" : "CLASS",
+          "lbl" : "acts on population of"
+        },
+        {
+          "id" : "obo:RO_0002230",
+          "type" : "CLASS",
+          "lbl" : "ends with"
+        },
+        {
+          "id" : "biolink:interacts_with",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002509",
+          "type" : "CLASS",
+          "lbl" : "determined by part of"
+        },
+        {
+          "id" : "obo:RO_0002134",
+          "type" : "CLASS",
+          "lbl" : "innervates"
+        },
+        {
+          "id" : "obo:RO_0002223",
+          "type" : "CLASS",
+          "lbl" : "starts"
+        },
+        {
+          "id" : "obo:RO_0002130",
+          "type" : "CLASS",
+          "lbl" : "has synaptic terminal in"
+        },
+        {
+          "id" : "obo:EFO_0000784",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:causes",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002202",
+          "type" : "CLASS",
+          "lbl" : "develops from"
+        },
+        {
+          "id" : "biolink:contributes_to",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BFO_0000117",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:UBERON_CORE_trunk_part_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002332",
+          "type" : "CLASS",
+          "lbl" : "regulates levels of"
+        },
+        {
+          "id" : "obo:BSPO_0000126",
+          "type" : "CLASS",
+          "lbl" : "in lateral side of"
+        },
+        {
+          "id" : "obo:RO_0002355",
+          "type" : "CLASS",
+          "lbl" : "results in structural organization of"
+        },
+        {
+          "id" : "obo:RO_0002178",
+          "type" : "CLASS",
+          "lbl" : "supplies"
+        },
+        {
+          "id" : "obo:RO_0002387",
+          "type" : "CLASS",
+          "lbl" : "has potential to develop into"
+        },
+        {
+          "id" : "obo:has_role",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BSPO_0001115",
+          "type" : "CLASS",
+          "lbl" : "postaxialmost part of"
+        },
+        {
+          "id" : "obo:RO_0004020",
+          "type" : "CLASS",
+          "lbl" : "disease has basis in dysfunction of"
+        },
+        {
+          "id" : "obo:RO_0004001",
+          "type" : "CLASS",
+          "lbl" : "has material basis in gain of function germline mutation in"
+        },
+        {
+          "id" : "obo:RO_0002573",
+          "type" : "CLASS",
+          "lbl" : "has modifier"
+        },
+        {
+          "id" : "obo:RO_0002207",
+          "type" : "CLASS",
+          "lbl" : "directly develops from"
+        },
+        {
+          "id" : "obo:nbo#is_about",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:actively_involved_in",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0000087",
+          "type" : "CLASS",
+          "lbl" : "has role"
+        },
+        {
+          "id" : "obo:RO_0002103",
+          "type" : "CLASS",
+          "lbl" : "synapsed by"
+        },
+        {
+          "id" : "obo:GOREL_0001006",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002331",
+          "type" : "CLASS",
+          "lbl" : "involved in"
+        },
+        {
+          "id" : "obo:RO_0002373",
+          "type" : "CLASS",
+          "lbl" : "has muscle insertion"
+        },
+        {
+          "id" : "obo:BSPO_0001107",
+          "type" : "CLASS",
+          "lbl" : "immediately deep to"
+        },
+        {
+          "id" : "obo:EFO_0006351",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002216",
+          "type" : "CLASS",
+          "lbl" : "capable of part of"
+        },
+        {
+          "id" : "obo:RO_0002433",
+          "type" : "CLASS",
+          "lbl" : "contributes to morphology of"
+        },
+        {
+          "id" : "obo:RO_0002093",
+          "type" : "CLASS",
+          "lbl" : "ends during"
+        },
+        {
+          "id" : "obo:core#innervated_by",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002578",
+          "type" : "CLASS",
+          "lbl" : "directly regulates"
+        },
+        {
+          "id" : "obo:RO_0002492",
+          "type" : "CLASS",
+          "lbl" : "existence ends during"
+        },
+        {
+          "id" : "obo:BSPO_0000120",
+          "type" : "CLASS",
+          "lbl" : "in left side of"
+        },
+        {
+          "id" : "obo:INO_0000154",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002084",
+          "type" : "CLASS",
+          "lbl" : "during which ends"
+        },
+        {
+          "id" : "obo:RO_0002180",
+          "type" : "CLASS",
+          "lbl" : "has component"
+        },
+        {
+          "id" : "obo:RO_0004007",
+          "type" : "CLASS",
+          "lbl" : "has primary input or output"
+        },
+        {
+          "id" : "biolink:affects",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:nbo#has_participant",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:GOREL_0001004",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002342",
+          "type" : "CLASS",
+          "lbl" : "results in transport across"
+        },
+        {
+          "id" : "obo:RO_0002412",
+          "type" : "CLASS",
+          "lbl" : "immediately causally upstream of"
+        },
+        {
+          "id" : "obo:GOREL_0012006",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002493",
+          "type" : "CLASS",
+          "lbl" : "existence ends with"
+        },
+        {
+          "id" : "obo:core#connected_to",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002090",
+          "type" : "CLASS",
+          "lbl" : "immediately precedes"
+        },
+        {
+          "id" : "obo:RO_0002503",
+          "type" : "CLASS",
+          "lbl" : "towards"
+        },
+        {
+          "id" : "obo:RO_0002303",
+          "type" : "CLASS",
+          "lbl" : "has habitat"
+        },
+        {
+          "id" : "obo:RO_0002211",
+          "type" : "CLASS",
+          "lbl" : "regulates"
+        },
+        {
+          "id" : "obo:BSPO_0015202",
+          "type" : "CLASS",
+          "lbl" : "aboral to"
+        },
+        {
+          "id" : "obo:UBERON_CORE_in_central_side_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:UBERON_CORE_in_outermost_side_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:UBERON_CORE_layer_part_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002356",
+          "type" : "CLASS",
+          "lbl" : "results in specification of"
+        },
+        {
+          "id" : "biolink:has_input",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:GOREL_0000040",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002572",
+          "type" : "CLASS",
+          "lbl" : "luminal space of"
+        },
+        {
+          "id" : "obo:FOODON_00001563",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BSPO_0001101",
+          "type" : "CLASS",
+          "lbl" : "in deep part of"
+        },
+        {
+          "id" : "obo:RO_0003304",
+          "type" : "CLASS",
+          "lbl" : "contributes to condition"
+        },
+        {
+          "id" : "biolink:consumes",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:actively_involves",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:UPHENO_0000001",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "biolink:capable_of",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0004021",
+          "type" : "CLASS",
+          "lbl" : "disease has basis in disruption of"
+        },
+        {
+          "id" : "obo:UBERON_CORE_protects",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002003",
+          "type" : "CLASS",
+          "lbl" : "electrically_synapsed_to"
+        },
+        {
+          "id" : "obo:OBI_0000293",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BFO_0000055",
+          "type" : "CLASS",
+          "lbl" : "realizes"
+        },
+        {
+          "id" : "obo:RO_0002322",
+          "type" : "CLASS",
+          "lbl" : "confers advantage in"
+        },
+        {
+          "id" : "obo:RO_0000053",
+          "type" : "CLASS",
+          "lbl" : "has characteristic"
+        },
+        {
+          "id" : "obo:RO_0002341",
+          "type" : "CLASS",
+          "lbl" : "results in transport along"
+        },
+        {
+          "id" : "obo:RO_0002255",
+          "type" : "CLASS",
+          "lbl" : "developmentally contributes to"
+        },
+        {
+          "id" : "obo:RO_0002608",
+          "type" : "CLASS",
+          "lbl" : "process has causal agent"
+        },
+        {
+          "id" : "obo:RO_0000056",
+          "type" : "CLASS",
+          "lbl" : "participates in"
+        },
+        {
+          "id" : "obo:RO_0002159",
+          "type" : "CLASS",
+          "lbl" : "serially homologous to"
+        },
+        {
+          "id" : "obo:RO_0002376",
+          "type" : "CLASS",
+          "lbl" : "tributary of"
+        },
+        {
+          "id" : "obo:RO_0000057",
+          "type" : "CLASS",
+          "lbl" : "has participant"
+        },
+        {
+          "id" : "obo:RO_0002256",
+          "type" : "CLASS",
+          "lbl" : "developmentally induced by"
+        },
+        {
+          "id" : "biolink:located_in",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002176",
+          "type" : "CLASS",
+          "lbl" : "connects"
+        },
+        {
+          "id" : "obo:RO_0002473",
+          "type" : "CLASS",
+          "lbl" : "composed primarily of"
+        },
+        {
+          "id" : "obo:RO_0002338",
+          "type" : "CLASS",
+          "lbl" : "has target start location"
+        },
+        {
+          "id" : "biolink:develops_from",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002001",
+          "type" : "CLASS",
+          "lbl" : "aligned with"
+        },
+        {
+          "id" : "obo:RO_0002120",
+          "type" : "CLASS",
+          "lbl" : "synapsed to"
+        },
+        {
+          "id" : "obo:BSPO_0000122",
+          "type" : "CLASS",
+          "lbl" : "in posterior side of"
+        },
+        {
+          "id" : "obo:GOREL_0002005",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002351",
+          "type" : "CLASS",
+          "lbl" : "has member"
+        },
+        {
+          "id" : "obo:RO_0002348",
+          "type" : "CLASS",
+          "lbl" : "results in commitment to"
+        },
+        {
+          "id" : "obo:RO_0002350",
+          "type" : "CLASS",
+          "lbl" : "member of"
+        },
+        {
+          "id" : "biolink:active_in",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002002",
+          "type" : "CLASS",
+          "lbl" : "has 2D boundary"
+        },
+        {
+          "id" : "obo:BSPO_0000108",
+          "type" : "CLASS",
+          "lbl" : "superficial to"
+        },
+        {
+          "id" : "obo:RO_0002233",
+          "type" : "CLASS",
+          "lbl" : "has input"
+        }
+      ],
+      "edges" : [
+        {
+          "sub" : "biolink:process_regulates_process",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002263",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002264",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002229",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_input",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:acts_upstream_of_or_within_positive_effect",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002576",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002608",
+          "pred" : "is_a",
+          "obj" : "biolink:caused_by",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002350",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000053",
+          "pred" : "is_a",
+          "obj" : "biolink:has_attribute",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002008",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002229",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002223",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:capable_of",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:actively_involved_in",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001106",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004021",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0004019",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002315",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002348",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004020",
+          "pred" : "is_a",
+          "obj" : "biolink:caused_by",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0003304",
+          "pred" : "is_a",
+          "obj" : "biolink:contributes_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:active_in",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002331",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002387",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001108",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BSPO_0000125",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:causes",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002506",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002314",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:OBI_0000295",
+          "pred" : "is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:causes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:contributes_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002411",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002473",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002322",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000063",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004021",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:temporally_related_to",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000123",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004009",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002505",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:participates_in",
+          "pred" : "is_a",
+          "obj" : "obo:BFO_0000056",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:part_of",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001100",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002315",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002295",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:core#innervated_by",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002264",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:acts_upstream_of_or_within_positive_effect",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002100",
+          "pred" : "is_a",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:GOREL_0001006",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002572",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002134",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:core#connected_to",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000120",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002351",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002256",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:actively_involves",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002371",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002177",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0009501",
+          "pred" : "is_a",
+          "obj" : "biolink:caused_by",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:acts_upstream_of",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0001022",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002230",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000108",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:contributes_to",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_input",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002215",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:capable_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002093",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002411",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000063",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002380",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000122",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002216",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002572",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002432",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004009",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002233",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002159",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:actively_involved_in",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:precedes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:nbo#by_means",
+          "pred" : "is_a",
+          "obj" : "biolink:actively_involved_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002326",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:contributes_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000120",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:affects",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002100",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002215",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002506",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000124",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:FOODON_00002420",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002524",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002373",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002177",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:capable_of",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002412",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002090",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004001",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002090",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0001025",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002349",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002509",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002509",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002355",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002295",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002226",
+          "pred" : "is_a",
+          "obj" : "biolink:develops_from",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002411",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002332",
+          "pred" : "is_a",
+          "obj" : "biolink:regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0001019",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_in_outermost_side_of",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0009004",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002497",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000086",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000053",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004026",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000123",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:nbo#in_response_to",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002590",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002592",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002092",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002326",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002373",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000121",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002326",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_trunk_part_of",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004019",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002493",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002263",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002344",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000124",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015102",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002230",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002331",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:actively_involved_in",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002432",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:causes",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004020",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:located_in",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002211",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002411",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002376",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002507",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002509",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "is_a",
+          "obj" : "biolink:regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002494",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002007",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002495",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000125",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:GOREL_0000040",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:acts_upstream_of_or_within_positive_effect",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:acts_upstream_of",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002489",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_participant",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000117",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002215",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002216",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002178",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:nbo#has_participant",
+          "pred" : "is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000126",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002104",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:IAO_0000136",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002385",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002264",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:INO_0000154",
+          "pred" : "is_a",
+          "obj" : "biolink:has_attribute",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002433",
+          "pred" : "is_a",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002571",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0001022",
+          "pred" : "is_a",
+          "obj" : "biolink:caused_by",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002568",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015102",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004020",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0004019",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004001",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002565",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:part_of",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0001018",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002120",
+          "pred" : "is_a",
+          "obj" : "biolink:interacts_with",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002507",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002007",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000050",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002591",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002592",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002371",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002001",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002433",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001113",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002350",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0001019",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:actively_involves",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002331",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002295",
+          "pred" : "is_a",
+          "obj" : "biolink:regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002230",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002503",
+          "pred" : "is_a",
+          "obj" : "biolink:actively_involved_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002326",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002216",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002489",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002488",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002177",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002356",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002342",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:consumes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000121",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BSPO_0000126",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002215",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002224",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001115",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000087",
+          "pred" : "is_a",
+          "obj" : "biolink:has_attribute",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004021",
+          "pred" : "is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000121",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002412",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002411",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002571",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004007",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002591",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002495",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002494",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002380",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000126",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004027",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0004026",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000054",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002092",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015202",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002264",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000123",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002372",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002572",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002090",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000063",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002338",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002344",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002590",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002576",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002355",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002176",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002524",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002571",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004019",
+          "pred" : "is_a",
+          "obj" : "biolink:caused_by",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:participates_in",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002351",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002216",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002348",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002295",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002412",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001101",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001113",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001100",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0012003",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002343",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002295",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002608",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002083",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002338",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:causes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002590",
+          "pred" : "is_a",
+          "obj" : "biolink:has_input",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002326",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002355",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:capable_of",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002211",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:GOREL_0002005",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002130",
+          "pred" : "is_a",
+          "obj" : "biolink:interacts_with",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002102",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000124",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002473",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002591",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000055",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002090",
+          "pred" : "is_a",
+          "obj" : "biolink:precedes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:develops_from",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002432",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:active_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002104",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002495",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002207",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002373",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002371",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000052",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002092",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002093",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:GOREL_0001004",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002372",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002177",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:process_regulates_process",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000107",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002496",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001107",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BSPO_0000107",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002180",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001106",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002207",
+          "pred" : "is_a",
+          "obj" : "biolink:develops_from",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002342",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002344",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:HANCESTRO_0330",
+          "pred" : "is_a",
+          "obj" : "biolink:synonym",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0005001",
+          "pred" : "is_a",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015102",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002592",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002432",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002343",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000053",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002374",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002509",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002506",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0012003",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001101",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004028",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_layer_part_of",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000051",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_in_central_side_of",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001113",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000056",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002263",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002328",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000120",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001115",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002255",
+          "pred" : "is_a",
+          "obj" : "biolink:contributes_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002343",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002216",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000050",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:envo#has_increased_levels_of",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:EFO_0006351",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002224",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002331",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000056",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000122",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001107",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000126",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002224",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_subdivision_of",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002180",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002002",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002180",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002007",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002372",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002371",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002150",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002211",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000063",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002412",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002492",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002497",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0005001",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002351",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002264",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004007",
+          "pred" : "is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002591",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002233",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000125",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002373",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002225",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002202",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002202",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:develops_from",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000120",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BSPO_0000126",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002507",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0003304",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002371",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002102",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002130",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015101",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002488",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002496",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002473",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000121",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0005001",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002565",
+          "pred" : "is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002592",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002331",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002264",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002488",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000063",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:precedes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002339",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002344",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002263",
+          "pred" : "is_a",
+          "obj" : "biolink:acts_upstream_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002216",
+          "pred" : "is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:process_regulates_process",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:regulates",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004009",
+          "pred" : "is_a",
+          "obj" : "biolink:consumes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002568",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002376",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002229",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002412",
+          "pred" : "is_a",
+          "obj" : "biolink:precedes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:has_role",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002509",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002372",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0009501",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001115",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:nbo#is_about",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002434",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:interacts_with",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001108",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002303",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002315",
+          "pred" : "is_a",
+          "obj" : "biolink:causes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002233",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:has_input",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002211",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002492",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:part_of",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_in_innermost_side_of",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001108",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002500",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002332",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:actively_involves",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:interacts_with",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002494",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002202",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002493",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002492",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002131",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004009",
+          "pred" : "is_a",
+          "obj" : "biolink:has_input",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:process_regulates_process",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0002211",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002104",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002507",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002225",
+          "pred" : "is_a",
+          "obj" : "biolink:develops_from",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002489",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002496",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002578",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002093",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:precedes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002349",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002295",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002507",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002506",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002493",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002497",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004009",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0004007",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:caused_by",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000057",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002331",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002207",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002202",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004020",
+          "pred" : "is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002263",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002500",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002130",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002177",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:IAO_0000136",
+          "pred" : "is_a",
+          "obj" : "biolink:synonym",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002003",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002495",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002202",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:consumes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001108",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UBERON_CORE_protects",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015101",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002341",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002331",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:actively_involved_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002233",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000057",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002103",
+          "pred" : "is_a",
+          "obj" : "biolink:interacts_with",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000086",
+          "pred" : "is_a",
+          "obj" : "biolink:has_attribute",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002451",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0015101",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:capable_of",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:EFO_0000784",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002356",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002295",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0009001",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002572",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002571",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002215",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004027",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002412",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000063",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:UPHENO_0000001",
+          "pred" : "is_a",
+          "obj" : "biolink:affects",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002551",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002576",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002223",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002590",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002233",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002380",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002084",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002339",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:FOODON_00001563",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002376",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:actively_involved_in",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0004028",
+          "pred" : "is_a",
+          "obj" : "biolink:caused_by",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000087",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0000053",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:overlaps",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000125",
+          "pred" : "is_a",
+          "obj" : "biolink:located_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002082",
+          "pred" : "is_a",
+          "obj" : "biolink:temporally_related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002505",
+          "pred" : "is_a",
+          "obj" : "biolink:participates_in",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001106",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BSPO_0000124",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001100",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000167",
+          "pred" : "is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002411",
+          "pred" : "is_a",
+          "obj" : "biolink:precedes",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002350",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002179",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002211",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002410",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:GOREL_0012006",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002223",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001101",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000050",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002524",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:HANCESTRO_0308",
+          "pred" : "is_a",
+          "obj" : "biolink:has_attribute",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002332",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002328",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002551",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:consumes",
+          "pred" : "asserted_is_a",
+          "obj" : "biolink:has_input",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:OBI_0000293",
+          "pred" : "is_a",
+          "obj" : "biolink:has_participant",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002507",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0000122",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002131",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002551",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:HANCESTRO_0301",
+          "pred" : "is_a",
+          "obj" : "biolink:has_attribute",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002102",
+          "pred" : "is_a",
+          "obj" : "biolink:overlaps",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0000052",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002314",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002255",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:RO_0002385",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BSPO_0001106",
+          "pred" : "is_a",
+          "obj" : "biolink:part_of",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002573",
+          "pred" : "is_a",
+          "obj" : "biolink:related_to",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        }
+      ],
+      "equivalentNodesSets" : [
+        {
+          "nodeIds" : [
+            "obo:RO_0002131",
+            "biolink:overlaps"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0002233",
+            "biolink:has_input"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0002331",
+            "biolink:actively_involved_in"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0000056",
+            "biolink:participates_in"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:BFO_0000055",
+            "biolink:has_part"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0002211",
+            "biolink:regulates"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:BFO_0000050",
+            "biolink:part_of"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:precedes",
+            "obo:BFO_0000063"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0002434",
+            "biolink:interacts_with"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:active_in",
+            "obo:RO_0002432"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0001025",
+            "biolink:located_in"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:capable_of",
+            "obo:RO_0002215"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0002326",
+            "biolink:contributes_to"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:develops_from",
+            "obo:RO_0002202"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "obo:RO_0000057",
+            "biolink:has_participant"
+          ]
+        },
+        {
+          "nodeIds" : [
+            "biolink:acts_upstream_of_or_within_positive_effect",
+            "obo:RO_0002264"
+          ]
+        }
+      ]
+    }
+  ]
+}

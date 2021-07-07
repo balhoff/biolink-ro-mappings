@@ -1,0 +1,18 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX linkml: <https://w3id.org/linkml/>
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+
+SELECT DISTINCT ?slot ?ref ?probs
+WHERE {
+  VALUES (?mapping ?probs) {
+    (skos:exactMatch "0.06|0.06|0.80|0.04")
+    (skos:narrowMatch "0.06|0.80|0.10|0.04")
+    (skos:broadMatch "0.80|0.06|0.10|0.04")
+    # use closeMatch?
+  }
+  ?slot a linkml:SlotDefinition .
+  ?slot ?mapping ?ref .
+}
