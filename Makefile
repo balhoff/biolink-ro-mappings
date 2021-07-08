@@ -18,7 +18,7 @@ probs.tsv: biolink-model.ttl
 	| sed 's/https:\/\/w3id.org\/biolink\/vocab\//biolink:/' \
 	| sed 's/http:\/\/purl.obolibrary.org\/obo\//obo:/' \
 	| sed 's/\|/\t/g' \
-	| grep 'obo:' | grep -v 'SIO' | grep -v 'WIKIDATA' | grep -v 'ORPHA' >$@
+	| grep 'obo:' | grep -v 'SIO' | grep -v 'WIKIDATA' | grep -v 'ORPHA' | grep -v 'biolink:related_to' >$@
 
 ontology.ttl: ro-classes.ttl biolink-slots.ttl
 	robot merge -i ro-classes.ttl -i biolink-slots.ttl -o $@

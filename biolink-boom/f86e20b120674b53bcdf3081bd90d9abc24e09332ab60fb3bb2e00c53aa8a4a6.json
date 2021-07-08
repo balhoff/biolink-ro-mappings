@@ -4,7 +4,7 @@
       "id" : "urn:clique:f86e20b120674b53bcdf3081bd90d9abc24e09332ab60fb3bb2e00c53aa8a4a6",
       "nodes" : [
         {
-          "id" : "biolink:is_metabolite",
+          "id" : "biolink:is_metabolite_of",
           "type" : "CLASS"
         },
         {
@@ -12,17 +12,17 @@
           "type" : "CLASS"
         },
         {
-          "id" : "biolink:is_metabolite_of",
+          "id" : "biolink:has_metabolite",
           "type" : "CLASS"
         },
         {
-          "id" : "biolink:has_metabolite",
+          "id" : "biolink:is_metabolite",
           "type" : "CLASS"
         }
       ],
       "edges" : [
         {
-          "sub" : "biolink:is_metabolite",
+          "sub" : "biolink:is_metabolite_of",
           "pred" : "is_a",
           "obj" : "obo:CHEBI_25212",
           "meta" : {
@@ -30,19 +30,6 @@
               {
                 "pred" : "https://w3id.org/kgviz/penwidth",
                 "val" : 0.6
-              }
-            ]
-          }
-        },
-        {
-          "sub" : "obo:CHEBI_25212",
-          "pred" : "owl:equivalentClass",
-          "obj" : "biolink:is_metabolite_of",
-          "meta" : {
-            "basicPropertyValues" : [
-              {
-                "pred" : "https://w3id.org/kgviz/penwidth",
-                "val" : 8.0
               }
             ]
           }
@@ -59,13 +46,26 @@
               }
             ]
           }
+        },
+        {
+          "sub" : "obo:CHEBI_25212",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:is_metabolite",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
         }
       ],
       "equivalentNodesSets" : [
         {
           "nodeIds" : [
             "obo:CHEBI_25212",
-            "biolink:is_metabolite_of"
+            "biolink:is_metabolite"
           ]
         }
       ]

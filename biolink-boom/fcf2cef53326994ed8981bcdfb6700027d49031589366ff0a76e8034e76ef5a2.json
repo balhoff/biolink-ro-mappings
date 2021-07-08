@@ -1,0 +1,303 @@
+{
+  "graphs" : [
+    {
+      "id" : "urn:clique:fcf2cef53326994ed8981bcdfb6700027d49031589366ff0a76e8034e76ef5a2",
+      "nodes" : [
+        {
+          "id" : "biolink:has_part",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002104",
+          "type" : "CLASS",
+          "lbl" : "has plasma membrane part"
+        },
+        {
+          "id" : "obo:BFO_0000051",
+          "type" : "CLASS",
+          "lbl" : "has part"
+        },
+        {
+          "id" : "obo:RO_0002524",
+          "type" : "CLASS",
+          "lbl" : "has subsequence"
+        },
+        {
+          "id" : "obo:RO_0001019",
+          "type" : "CLASS",
+          "lbl" : "contains"
+        },
+        {
+          "id" : "obo:RO_0002551",
+          "type" : "CLASS",
+          "lbl" : "has skeleton"
+        },
+        {
+          "id" : "obo:FOODON_00002420",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BFO_0000117",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:RO_0002180",
+          "type" : "CLASS",
+          "lbl" : "has component"
+        },
+        {
+          "id" : "obo:RO_0002473",
+          "type" : "CLASS",
+          "lbl" : "composed primarily of"
+        },
+        {
+          "id" : "obo:RO_0002351",
+          "type" : "CLASS",
+          "lbl" : "has member"
+        },
+        {
+          "id" : "obo:FOODON_00001563",
+          "type" : "CLASS"
+        },
+        {
+          "id" : "obo:BFO_0000055",
+          "type" : "CLASS",
+          "lbl" : "realizes"
+        }
+      ],
+      "edges" : [
+        {
+          "sub" : "obo:RO_0002351",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0001019",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002351",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002180",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002473",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:FOODON_00001563",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:FOODON_00002420",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002524",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000117",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002104",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "is_a",
+          "obj" : "obo:RO_0001019",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:BFO_0000051",
+          "pred" : "owl:equivalentClass",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002473",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002104",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002180",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "biolink:has_part",
+          "pred" : "is_a",
+          "obj" : "obo:BFO_0000055",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 0.6
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002524",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002551",
+          "pred" : "asserted_is_a",
+          "obj" : "obo:BFO_0000051",
+          "meta" : {
+            "basicPropertyValues" : [
+            ]
+          }
+        },
+        {
+          "sub" : "obo:RO_0002551",
+          "pred" : "is_a",
+          "obj" : "biolink:has_part",
+          "meta" : {
+            "basicPropertyValues" : [
+              {
+                "pred" : "https://w3id.org/kgviz/penwidth",
+                "val" : 8.0
+              }
+            ]
+          }
+        }
+      ],
+      "equivalentNodesSets" : [
+        {
+          "nodeIds" : [
+            "obo:BFO_0000051",
+            "biolink:has_part"
+          ]
+        }
+      ]
+    }
+  ]
+}
